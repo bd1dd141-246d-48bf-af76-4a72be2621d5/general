@@ -111,7 +111,7 @@
    },
    {
       "Name":"citroen ds-21 pallas",
-      "Miles_per_Gallon":null,
+      "Miles_per_Gallon":0,
       "Cylinders":4,
       "Displacement":133,
       "Horsepower":115,
